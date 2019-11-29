@@ -1,0 +1,1 @@
+SELECT * FROM `alif trading company`.equipment;
